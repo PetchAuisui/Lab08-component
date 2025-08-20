@@ -4,7 +4,7 @@ set(COMPONENT_SRCS
 )
 
 set(COMPONENT_ADD_INCLUDEDIRS
-    "Sensors"
+    "sensors"
     
 )
 
