@@ -1,5 +1,5 @@
 set(COMPONENT_SRCS
-    "Sensors/sensor.c"
+    "sensors/sensor.c"
     
 )
 
